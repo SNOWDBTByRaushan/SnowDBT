@@ -1,0 +1,5 @@
+models:
+  - name: bronze
+    description: "Bronze layer tables"
+    config:
+      materialized: table
